@@ -10,7 +10,7 @@ This project demonstrates a simple **Publish–Subscribe (Pub/Sub)** system buil
 
 ## Architecture
 
-![Architecture Diagram](Architecture Diagram.jpg)
+![Architecture Diagram](./Architecture Diagram.jpg)
 
 (Replace the above image with the actual exported architecture diagram once you have it.)
 
