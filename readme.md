@@ -1,4 +1,4 @@
-# Project README
+# PUBLISH-SUBSCRIBE SYSTEM
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project demonstrates a simple **Publish–Subscribe (Pub/Sub)** system buil
 
 ## Architecture
 
-![Architecture Diagram](./Architecture Diagram.jpg)
+![Architecture Diagram](./architecture.jpg)
 
 (Replace the above image with the actual exported architecture diagram once you have it.)
 
